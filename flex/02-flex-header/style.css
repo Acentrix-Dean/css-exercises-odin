@@ -35,6 +35,5 @@ a {
   justify-content: center;
   align-items: center;
   border: solid;
-  margin: 0px;
-  padding: 0px;
-}
+  margin-top: 10px;
+  margin-bottom: 10px;
