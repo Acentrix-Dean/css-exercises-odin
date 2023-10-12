@@ -19,7 +19,17 @@ img {
   display: flex;
   justify-content: center;
   gap: 52px;
-  flex: auto;
+}
+
+.item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text {
+  text-align: center;
+  max-width: 200px;
 }
 
 /* do not edit this footer */
