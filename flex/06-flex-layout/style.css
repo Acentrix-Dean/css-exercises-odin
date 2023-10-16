@@ -21,6 +21,7 @@ ul {
 
 a {
   text-decoration: none;
+  color: #555555;
 }
 
 button {
@@ -56,6 +57,7 @@ input {
 
 .footer {
   display: flex;
+  background-color: #eeeeee;
 }
 
 .content {
