@@ -43,3 +43,9 @@ input {
   gap: 10px;
   flex: 1;
 }
+
+.right-links {
+  display: flex;
+  gap: 10px;
+  padding-right: 20px;
+}
